@@ -1,0 +1,6 @@
+weekly_player_stats_offense.csv
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+/.vscode/
+/.venv/
